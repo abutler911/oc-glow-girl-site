@@ -1,5 +1,13 @@
-# OC Glow Girl landing page
+# OC Glow Girl - Activated Liquid Collagen Landing Page
 
-### This was a landing page created for a small business to be used to direct sales to the main company webpage
+Welcome to the repository of the OC Glow Girl Activated Liquid Collagen landing page. This project is the result of a focused and user-oriented effort to build a functional and attractive landing page for a small business. The purpose of the landing page is to effectively and efficiently direct potential customers to the main company webpage.
 
-### It is a very simple landing page using only HTML and CSS with Bootstrap
+The landing page uses straightforward and robust technologies including HTML, CSS, and Bootstrap to ensure maximum compatibility and responsive design across various devices and browsers.
+
+## Contribution and Feedback
+
+We believe in the power of community and the potential of open source to continually improve. Therefore, we welcome and appreciate any feedback you may have on this project. If you know of more efficient methods, better practices, or simply have ideas to improve or extend functionality, please don't hesitate to contribute or share your thoughts.
+
+For major changes, please open an issue first to discuss what you would like to change. Pull requests are always welcome.
+
+Together, we can ensure that the OC Glow Girl Activated Liquid Collagen landing page remains a high-quality resource that truly serves the needs of its users. Thank you for your interest and support.
